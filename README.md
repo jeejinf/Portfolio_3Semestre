@@ -53,8 +53,7 @@
 <hr>
 <h2>Sobre mim</h2>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/111452998?v=4" width="30%"></p>
-<p align="justify">Regularmente matriculado no 3º Semestre de Desenvolvimento de Software Multiplataforma pela Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
-<p align="justify">Atualmente estagiando na empresa MIDIASIM, onde utilizo PHP, MySQL e outros para fazer e manter softwares para clientes.</p>
+<p align="justify">Estou matriculado no terceiro semestre do curso de Desenvolvimento de Software Multiplataforma na FATEC de São José dos Campos. Atualmente, estou estagiando na MIDIASIM, onde aplico habilidades em PHP, MySQL e outras tecnologias para desenvolver e manter softwares personalizados para os clientes.</p>
 <p align="justify">Interessado em aprender o máximo de áreas que envolvem a programação, almejando um dia me tornar um Desenvolvedor Full Stack.</p>
 <p align="center">• <a href="https://www.linkedin.com/in/jeanlfs/">LinkedIn</a> • <a href="https://github.com/jeejinf">GitHub</a> •</p>
 <hr>
