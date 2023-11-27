@@ -54,8 +54,8 @@
 <h2>Sobre mim</h2>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/111452998?v=4" width="30%"></p>
 <p align="justify">Regularmente matriculado no 3º Semestre de Desenvolvimento de Software Multiplataforma pela Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
-<p align="justify">[subtitle-1]</p>
-<p align="justify">[subtitle-2]</p>
+<p align="justify">Atualmente estagiando na empresa MIDIASIM, onde utilizo PHP, MySQL e outros para fazer e manter softwares para clientes.</p>
+<p align="justify">Interessado em aprender o máximo de áreas que envolvem a programação, almejando um dia me tornar um Desenvolvedor Full Stack.</p>
 <p align="center">• <a href="https://www.linkedin.com/in/jeanlfs/">LinkedIn</a> • <a href="https://github.com/jeejinf">GitHub</a> •</p>
 <hr>
 <div class="semestre1">
@@ -64,40 +64,68 @@
 <h4>1º Semestre • 2/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 <p align="center"><img src="img_octagro" widht="20%"></img>
-<p align="justify">[desc-octoplusbank]</p>
-<p align="justify">[desc-octoplusbank]</p>
+<p align="justify">O tema abordado neste projeto de API foi o desenvolvimento de um sistema para um Internet Banking; monitorando e controlando operações bancárias e reduzindo a necessidade de interações presenciais.</p>
+<p align="justify">Utilizamos o modelo MVC para construir uma aplicação em Flask para resolver este problema proposto pelo nosso cliente, onde utilizamos os conhecimentos aprendidos durante as matérias do primeiro semestre, e também realizamos muita pesquisa extra classe para nos habituarmos nesse mundo novo da programação, neste projeto tinhamos um Gerente Geral, que podia criar agências e cadastrar novos Gerentes de Agência, e estes Gerentes de Agência eram os responsáveis por controlar os clientes de suas respectivas agências, já os clientes tinham a liberdade de realizar depósitos, saques, transferências e investimentos fictícios.</p>
 <br>
 <details>
   <summary><b>Funcionalidades</b></summary>
   <br>
-  <p align="left"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/app_gif.gif" width="50%" alt=""/></p> 
+  <ul>
+    <li>Gerente Geral: Pode gerenciar o capital total do banco, gerenciar gerentes de agência e criar agências.</li>
+    <li>Gerente de Agência: Pode aprovar edições nas contas dos clientes, aprovar depósitos e gerenciar agências.</li>
+    <li>Cliente: Pode criar uma conta, realizar depósitos, saques, transferências e deixar dinheiro rendendo.</li>
+  </ul>
 </details>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify"><a href="https://www.figma.com/">Figma:</a> para o desenvolvimento e prototipação das wireframes.</p>
+<p align="justify"><a href="https://www.w3.org/standards/">HTML, CSS e JS:</a> para o desenvolvimento da página web e estilização.</p>
+<p align="justify"><a href="https://flask.palletsprojects.com/en/3.0.x/">Python e Flask:</a> para a construção da lógica e requisitos solicitados pelo nosso cliente.</p>
+<p align="justify"><a href="https://www.mysql.com/">MySQL:</a> como SGBD do nosso projeto.</p>
+<p align="justify"><a href="https://aws.amazon.com/pt/">AWS:</a> para colocar nosso projeto rodando em nuvem.</p>
 <br>
 <h3>Contribuições Pessoais</h3>
-<p align="justify">[contribuicoes]</p>
 <ul>
-  <li>Atividade 1.</li>
-  <li>Atividade 2.</li>
+  <li>Prototipagem: junto com outros membros da equipe, realizamos a prototipagem, aprendendo na prática a utilizar o software <a href="https://www.figma.com/">Figma</a>.</li>
+  <li>Criação das páginas, usando HTML, CSS (com Bootstrap) e JS (com JQuery): Nesse período, tive que aprender a utilizar HTML e CSS, e após construir boa base do site, fiz alguns ajustes, como máscara de CEP, CPF e Telefone, sendo que na máscara de CEP fiz a integração com uma API que consultava e inseria o endereço baseado no CEP registrado pelo usuário.</li>
+  <li>Responsividade: como solicitado pelo cliente, fizemos a responsividade das páginas em que o usuário final teria acesso, refatorando boa parte do código para incluir o uso das colunas do Bootstrap, fazendo com que a nossa aplicação fosse responsiva para todos os tipos de dispotivos.</li>
 </ul>
 <br>
 <h3>Lições Aprendidas</h3>
-<p align="justify">[licoes aprendidas]</p>
+<p align="justify">Aprendi muitas tecnologias novas, metodologias novas, mas principalmente desenvolvemos Soft Skills necessárias para nos manter na faculdade, a comunicação em um projeto realizado durante meses é fundamental, e apesar do desafio de termos juntado um grupo onde ninguém sabia nenhuma tecnologia, e ninguém se conhecia, foi muito engradecedor para todos conseguir concluir esse projeto com um bom desempenho.</p>
 <h3>Hard Skills</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
-  <table align="center">
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Figma</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-  </table>
+<table align="center">
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>★★★★★★★★★☆</td>
+  </tr>
+  <tr>
+    <td>CSS e Bootstrap</td>
+    <td>★★★★★★★★★☆</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Python e Flask</td>
+    <td>★★★★★★★★☆☆</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>★★★★★★★★☆☆</td>
+  </tr>
+</table>
 </details>
 <h3>Soft Skills</h3>
 <details>
@@ -110,36 +138,36 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Empatia</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Inteligência Emocional</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
   </table>
 </details>
 <br>
-<p align="justify"><b>Proatividade:</b>[especificacao]</p>
+<p align="justify"><b>Proatividade: </b>Estava no inicio da faculdade, bem animado e com quase nenhum conhecimento sobre as tecnologias e metodologias que me cercavam, mas com bastante vontade de aprender, acredito que foi o Semestre até então que mais me desempenhei para conseguir comunicar melhor com meus colegas, e fui bem propositivo para conseguirmos entregar um bom MVP, apesar da dificuldade de não ter experiência com o método SCRUM, nós conseguimos nos virar bem durante as 4 sprints.</p>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
@@ -149,13 +177,17 @@
 <h4>2º Semestre • 1/2023 • <a href="https://github.com/OctAgro/OctAgro-API">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.jaia.software/">Jaia Software</a></p>
 <p align="center"><img src="img_octagro" widht="20%"></img>
-<p align="justify">[desc-octagro]</p>
-<p align="justify">[desc-octagro]</p>
+<p align="justify">O tema abordado neste projeto de API foi o desenvolvimento de um sistema para um Internet Banking; monitorando e controlando operações bancárias e reduzindo a necessidade de interações presenciais.</p>
+<p align="justify">Utilizamos o modelo MVC para construir uma aplicação em Flask para resolver este problema proposto pelo nosso cliente, onde utilizamos os conhecimentos aprendidos durante as matérias do primeiro semestre, e também realizamos muita pesquisa extra classe para nos habituarmos nesse mundo novo da programação, neste projeto tinhamos um Gerente Geral, que podia criar agências e cadastrar novos Gerentes de Agência, e estes Gerentes de Agência eram os responsáveis por controlar os clientes de suas respectivas agências, já os clientes tinham a liberdade de realizar depósitos, saques, transferências e investimentos fictícios.</p>
 <br>
 <details>
   <summary><b>Funcionalidades</b></summary>
   <br>
-  <p align="left"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/app_gif.gif" width="50%" alt=""/></p> 
+  <ul>
+    <li>Gerente Geral: Pode gerenciar o capital total do banco, gerenciar gerentes de agência e criar agências.</li>
+    <li>Gerente de Agência: Pode aprovar edições nas contas dos clientes, aprovar depósitos e gerenciar agências.</li>
+    <li>Cliente: Pode criar uma conta, realizar depósitos, saques, transferências e deixar dinheiro rendendo.</li>
+  </ul>
 </details>
 <h3>Tecnologias Utilizadas</h3>
 <p align="justify"><a href="https://www.figma.com/">Figma:</a> para o desenvolvimento e prototipação das wireframes.</p>
