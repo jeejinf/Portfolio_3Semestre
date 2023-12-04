@@ -58,7 +58,7 @@
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a> (projeto interno)</p>
 <p align="center"><img src="logo_octoplus.png" width="20%"></img>
 <p align="justify">O tema abordado neste projeto de API foi o desenvolvimento de um sistema para um Internet Banking; monitorando e controlando operações bancárias e reduzindo a necessidade de interações presenciais.</p>
-<p align="justify">Utilizamos o modelo MVC para construir uma aplicação em Flask para resolver este problema proposto pelo nosso cliente, onde utilizamos os conhecimentos aprendidos durante as matérias do primeiro semestre, e também realizamos muita pesquisa extra classe para nos habituarmos nesse mundo novo da programação, neste projeto tinhamos um Gerente Geral, que podia criar agências e cadastrar novos Gerentes de Agência, e estes Gerentes de Agência eram os responsáveis por controlar os clientes de suas respectivas agências, já os clientes tinham a liberdade de realizar depósitos, saques, transferências e investimentos fictícios.</p>
+<p align="justify">Utilizamos o modelo MVC para construir uma aplicação em Flask para resolver este problema proposto pelo nosso cliente, onde utilizamos os conhecimentos aprendidos durante as matérias do primeiro semestre, e também realizamos muita pesquisa extra classe para nos habituarmos nesse mundo novo da programação, neste projeto tínhamos um Gerente Geral, que podia criar agências e cadastrar novos Gerentes de Agência, e estes Gerentes de Agência eram os responsáveis por controlar os clientes de suas respectivas agências, já os clientes tinham a liberdade de realizar depósitos, saques, transferências e investimentos fictícios.</p>
 <details>
   <summary><b>Funcionalidades</b></summary>
   <ul>
@@ -251,7 +251,7 @@
     </tr>
   </table>
 </details>
-<p align="justify">Nesse semestre, a <b>visão de negócio</b> em conjunto com a <b>proatividade</b> nos levou a alcançar um resultado bem interessante, onde podiamos ver que o trabalho realizado no primeiro semestre havia nos ensinado bastante, mas ainda tinhamos muito o que aprender, principalmente ao lidar com a organização de pessoas, tivemos um projeto bem mais sólido e conseguimos aprender um conjunto de ferramentas bem variadas e cumprimos com todos os prazos estabelecidos pelo cliente.</p>
+<p align="justify">Nesse semestre, a <b>visão de negócio</b> em conjunto com a <b>proatividade</b> nos levou a alcançar um resultado bem interessante, onde podíamos ver que o trabalho realizado no primeiro semestre havia nos ensinado bastante, mas ainda tínhamos muito o que aprender, principalmente ao lidar com a organização de pessoas, tivemos um projeto bem mais sólido e conseguimos aprender um conjunto de ferramentas bem variadas e cumprimos com todos os prazos estabelecidos pelo cliente.</p>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
@@ -264,7 +264,7 @@
 <details>
   <summary><b>Funcionalidades</b></summary>
     <ul>
-      <li>Engenheiro Chefe: Era da competência do Engenheiro Chefe, importar projetos antigos em formato de .xlsx para o nosso Sistema, e seria automaticamente integrado no nosso banco de dados todas as informações daquele projeto, podendo ser atribuido esse projeto a um Lider de Projeto.</li>
+      <li>Engenheiro Chefe: Era da competência do Engenheiro Chefe, importar projetos antigos em formato de .xlsx para o nosso Sistema, e seria automaticamente integrado no nosso banco de dados todas as informações daquele projeto, podendo ser atribuído esse projeto a um Lider de Projeto.</li>
       <li>Lider de Projeto: É o responsável para dizer como está o andamento do Projeto, e também pode ver informações importantes como o Gráfico de Curva S, qual o prazo da entrega e os custos que envolvem cada parte desse projeto.</li>
     </ul>
 </details>
