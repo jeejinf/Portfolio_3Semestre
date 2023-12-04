@@ -257,7 +257,7 @@
 <hr>
 <div class="semestre3">
 <h3 id="ninetech">NineTech</h3>
-<h4>2º Semestre • 1/2023 • <a href="https://github.com/Nine-Tech/nine-tech-documentation">Repositório Github e Documentação do Projeto</a></h4>
+<h4>3º Semestre • 1/2023 • <a href="https://github.com/Nine-Tech/nine-tech-documentation">Repositório Github e Documentação do Projeto</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.siatt.com.br/siatt/">Siatt</a></p>
 <p align="center"><img src="logo_ninetech.png" width="20%"></img>
 <p align="justify">Nossa parceira, a empresa Siatt, enfrenta o desafio de gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Times para Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos.</p>
